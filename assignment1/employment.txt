@@ -1,0 +1,44 @@
+Hally Burke         5/15/1978       55,90006/17/98        78,900
+Divorced       F        
+      12/12/1956      
+Polly Johns        11/21/1989      114,32003/04/95       127,750
+               F
+       5/25/1940
+Ryan Mead           4/2/1985        36,70005/04/87        38,780
+Single         M
+      10/31/1967 
+Meredith Multo      8/19/1980                             
+Married             
+       9/09/1965
+Heather Bapps       6/19/1986       45,10011/13/92        56,890
+Single         F
+       4/23/1960
+Paul Walker                         38,50001/31/95        43,200
+Single         M 
+       7/11/1971
+Elizabeth Sampson  10/13/1995      108,550                       
+Widowed        F
+       2/23/1956 
+Alyssa Gregory     8/15/1982              10/14/99        98,210
+Married        F
+      12/10/1946
+Zoe Lieberman      2/20/1982        28,89004/19/85        35,400
+Single         F
+       7/25/1962 
+Julianna Appleton  9/10/1987                              61,250
+Married        F 
+      10/09/1955 
+Peter Vicor        6/12/1994        87,90005/14/98       105,490
+Single         M
+       5/31/1953
+Anna Beth Hardman  1/28/1989        56,00008/27/00        75,800
+Divorced       F  
+      11/12/1959
+Lauren Anderson    7/16/1988        27,45009/09/89               
+               F
+       8/11/1961
+Alfred Underman                           07/06/01        46,780
+               M
+       3/31/1974
+
+ 
